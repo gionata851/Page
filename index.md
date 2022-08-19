@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Gionata851's site!
+
+Hello! My Name's is Gionata. I'm a software engineer from Italy, and I work on ERP softwares.
+This page is intended to be a place to release other personal little project, not related to my job.
+The page is under construction! Soon some news!
+
+---
 
 You can use the [editor on GitHub](https://github.com/gionata851/Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
