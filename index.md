@@ -7,6 +7,5 @@ The page is under construction! Soon some news!
 ---
 
 Project List:
- - [PrinzoPedia Smart Dictionary] (https://gionata851.github.io/PrinzoPedia/)
-      A simple and very easy-to-use English dictionary, using https://dictionaryapi.dev.
+ - [PrinzoPedia Smart Dictionary](https://gionata851.github.io/PrinzoPedia/) :a simple and very easy-to-use English dictionary, using the API https://dictionaryapi.dev.
  
