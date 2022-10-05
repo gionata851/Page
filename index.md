@@ -1,5 +1,7 @@
 ## Welcome to Gionata851's site!
 
+![gionata851's avatar](https://avatars.githubusercontent.com/u/77168467)
+
 Hello! My Name's is Gionata. I'm a software engineer from Italy, and I work on ERP softwares.
 This page is intended to be a place to release other personal little project, not related to my job.
 The page is under construction! Soon some news!
