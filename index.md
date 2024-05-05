@@ -11,4 +11,4 @@ The page is under construction! Soon some news!
 Project List:
  - [Time Calc](https://gionata851.github.io/TimeCalc/): a calculator for both standard use and useful operations with time measures.
  - [PrinzoPedia Smart Dictionary](https://gionata851.github.io/PrinzoPedia/): a simple and very easy-to-use English dictionary, using the API https://dictionaryapi.dev.
- 
+ - [Gif Finder](https://giffinder-gionata851.netlify.app/): a nice research tool to get gifs. Powered by Giphy APIs.
