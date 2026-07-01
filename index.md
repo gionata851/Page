@@ -2,13 +2,14 @@
 
 ![gionata851's avatar](https://avatars.githubusercontent.com/u/77168467)
 
-<p style="color:black">Hello! My Name's is Gionata. I'm a software engineer from Italy, and I work on ERP softwares.
+<span style="color:black">Hello! My Name's is Gionata. I'm a software engineer from Italy, and I work on ERP softwares.
 This page is intended to be a place to release other personal little project, not related to my job.
-The page is under construction! Soon some news!</p>
+The page is under construction! Soon some news!</span>
 
 ---
 
-Project List:
- - [Time Calc](https://gionata851.github.io/TimeCalc/): a calculator for both standard use and useful operations with time measures.
- - [PrinzoPedia Smart Dictionary](https://gionata851.github.io/PrinzoPedia/): a simple and very easy-to-use English dictionary, using the API https://dictionaryapi.dev.
- - [Gif Finder](https://giffinder-gionata851.netlify.app/): a nice research tool to get gifs. Powered by Giphy APIs.
+<span style="color:black">Project List:</span>
+ - <span style="color:black">[Abstract Art Generator](https://mondriangenerator.netlify.app/): discover the artist in you with this abstract art generator!</span>
+ - <span style="color:black">[Time Calc](https://gionata851.github.io/TimeCalc/): a calculator for both standard use and useful operations with time measures.</span>
+ - <span style="color:black">[PrinzoPedia Smart Dictionary](https://gionata851.github.io/PrinzoPedia/): a simple and very easy-to-use English dictionary, using the API https://dictionaryapi.dev.</span>
+ - <span style="color:black">[Gif Finder](https://giffinder-gionata851.netlify.app/): a nice research tool to get gifs. Powered by Giphy APIs.</span>
